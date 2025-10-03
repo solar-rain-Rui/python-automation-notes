@@ -11,14 +11,12 @@
             "id": "efa28ee852843733",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Git/Git.md",
-                "mode": "source",
-                "source": false
+                "file": "附件/session.png"
               },
-              "icon": "lucide-file",
-              "title": "Git"
+              "icon": "lucide-image",
+              "title": "session"
             }
           }
         ]
@@ -140,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Git.md",
+                "file": "附件/Pasted image 20250925155939.png",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Git 的大纲"
+              "title": "Pasted image 20250925155939 的大纲"
             }
           }
         ],
@@ -154,7 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,11 +165,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "efa28ee852843733",
+  "active": "f29878c5742fd911",
   "lastOpenFiles": [
+    "附件/session.png",
+    "Git/Git.md",
+    "pytest/pytest结合数据驱动.md",
     "plan/项目/项目.md",
     "未命名.base",
-    "Git/Git.md",
     "plan/项目/github.md",
     "pytest/Allure2.md",
     "plan/学习计划.md",
@@ -179,7 +179,6 @@
     "pytest/Fixture.md",
     "plan/项目",
     "pytest/pytest.md",
-    "pytest/pytest结合数据驱动.md",
     "note/note1.md",
     "接口测试/json.md",
     "note/note2.md",
@@ -194,7 +193,6 @@
     "python/类和对象.md",
     "python/函数.md",
     "附件/Pasted image 20250925155939.png",
-    "附件/session.png",
     "python/数据容器/元组.md",
     "测试基础/测试用例、缺陷管理.md",
     "接口测试/接口自动化demo/接口测试.md",
